@@ -3,7 +3,7 @@ Multi-shooting methods are useful to change a boundary value problem into an ini
 
 The idea is that in order to change the nature of the problem it is necessary to introduce a parameter. Once that the parameter has been computed via root-finding or optimization algorithms, the initial value problem can be solved with high order numerical methods.
 
-In my Bachelor's thesis, I have studied in details multi-shooting methods and I have dealt with different examples as the brachistochrone and the pendulum problem.
+Here, I show different shooting methods and examples as the brachistochrone and the pendulum problem.
 
 Folder description: 
 # function
